@@ -36,6 +36,7 @@ Also NOTE: If you know of a game that has game-driven lighting that is not on th
 > Star Wars Battlefront II  
 > Starpoint Gemini Warlords  
 > Terraria  
+> The Sims 4
 > The Swords of Ditto  
 > Tom Clancy’s: The Division  
 > Total War: Warhammer II  
