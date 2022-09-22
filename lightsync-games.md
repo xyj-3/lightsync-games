@@ -1,10 +1,10 @@
-# Lightsync Game-driven lighting games list
+# Lightsync integrated games list
 
-This is a list of games that have **game-driven lighting** on Logitech devices through Lightsync. 
+This is a list of games that have **integrated / game-driven lighting** on Logitech devices through Lightsync. 
 
 NOTE: This list is crowdsourced and incomplete, therefore I cannot guarantee its accuracy. It is partner to my [list of all profile-supported games in G HUB](https://gist.github.com/xyj-3/9bd31cbe62f5a791483c40d798bad869) (which is complete).
 
-Also NOTE: If you know of a game that has game-driven lighting that is not on this list, or if you see an error and would like to contribute, please open an issue or pull request. Please follow the MD formatting (including adding two spaces at the end of the line) and alphabetical ordering if you would like to add a game through pull request.
+Also NOTE: If you know of a game that has integrated lighting that is not on this list, or if you see an error and would like to contribute, please open an issue or pull request. Please follow the MD formatting (including adding two spaces at the end of the line) and alphabetical ordering if you would like to add a game through pull request.
 
 > American Truck Simulator  
 > Anthem  
