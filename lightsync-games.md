@@ -32,6 +32,7 @@ Also NOTE: If you know of a game that has integrated lighting that is not on thi
 > Metronomicon  
 > Mirror's Edge Catalyst  
 > Moonlighter  
+> Mortal Kombat 11  
 > Overwolf  
 > Star Wars Battlefront II  
 > Starpoint Gemini Warlords  
