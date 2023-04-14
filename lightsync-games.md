@@ -26,7 +26,7 @@ Also NOTE: If you know of a game that has integrated lighting that is not on thi
 > Injustice 2  
 > iRacing  
 > Journey to the Savage Planet  
-> Kerbal Space Program 2
+> Kerbal Space Program 2  
 > Killing Floor 2  
 > Mafia III  
 > Mass Effect: Andromeda  
