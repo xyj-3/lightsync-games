@@ -28,6 +28,7 @@ Also NOTE: If you know of a game that has integrated lighting that is not on thi
 > Journey to the Savage Planet  
 > Kerbal Space Program 2  
 > Killing Floor 2  
+> League of Legends  
 > Mafia III  
 > Mass Effect: Andromeda  
 > Metronomicon  
