@@ -18,9 +18,9 @@ Also NOTE: If you know of a game that has integrated lighting that is not on thi
 > Discord  
 > Dota 2  
 > Euro Truck Simulator  
+> Factorio  
 > Final Fantasy XIV Shadowbringers  
 > Final Fantasy XIV Stormblood  
-> Factorio  
 > Fortnite  
 > Frostpunk  
 > Grand Theft Auto V  
