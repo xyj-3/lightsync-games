@@ -40,7 +40,7 @@ Also NOTE: If you know of a game that has integrated lighting that is not on thi
 > Star Wars Battlefront II  
 > Starpoint Gemini Warlords  
 > Terraria  
-> The Last of Us™ Part I  
+> The Last of Us Part I  
 > The Sims 4  
 > The Swords of Ditto  
 > Tom Clancy’s: The Division  
