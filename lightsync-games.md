@@ -45,3 +45,4 @@ Also NOTE: If you know of a game that has integrated lighting that is not on thi
 > The Swords of Ditto  
 > Tom Clancy’s: The Division  
 > Total War: Warhammer II  
+> Total War: Warhammer III  
