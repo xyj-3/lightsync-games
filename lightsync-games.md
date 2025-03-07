@@ -9,8 +9,8 @@ Also NOTE: If you know of a game that has integrated lighting that is not on thi
 > American Truck Simulator  
 > Anthem  
 > Assetto Corsa  
-> Battlefield 1
-> Battlefield Hardline
+> Battlefield 1  
+> Battlefield Hardline  
 > Battlefield V  
 > Beat Cop  
 > Borderlands 3  
