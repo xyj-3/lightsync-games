@@ -14,6 +14,7 @@ If you know of a game that has integrated lighting that is not on this list, or 
 > Battlefield V\
 > Beat Cop\
 > Borderlands 3\
+> Borderlands: The Pre-Sequel\
 > Civilization VI\
 > Counter-Strike: Global Offensive\
 > Discord\
